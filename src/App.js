@@ -5,7 +5,8 @@ import TicTac from "./ticTac/TicTac";
 function App() {
   return (
     <div className="App">
-      <TicTac />
+      {/* <TicTac /> */}
+      hello world
     </div>
   );
 }
